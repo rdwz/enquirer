@@ -1,16 +1,11 @@
 <h1 align="center">Enquirer</h1>
 
-<p align="center">
-  <a href="https://npmjs.org/package/enquirer">
-    <img src="https://img.shields.io/npm/v/enquirer.svg" alt="version">
-  </a>
-  <a href="https://npmjs.org/package/enquirer">
-    <img src="https://img.shields.io/npm/dm/enquirer.svg" alt="downloads">
-  </a>
-</p>
-
-<br>
-<br>
+<div align="center">
+  
+ [![Version](https://img.shields.io/npm/v/enquirer.svg)](https://npmjs.org/package/enquirer)
+ [![Dependency Count](https://badgen.net/bundlephobia/dependency-count/react)](https://bundlephobia.com/package/enquirer)
+ [![Downloads](https://img.shields.io/npm/dm/enquirer.svg)](https://npmjs.org/package/enquirer)
+</div>
 
 <p align="center">
   <b>Stylish CLI prompts that are user-friendly, intuitive and easy to create.</b><br>
