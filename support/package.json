@@ -29,7 +29,7 @@
     "gulp-drafts": "^0.2.0",
     "gulp-extname": "^0.2.2",
     "gulp-html-toc": "^1.1.0",
-    "gulp-reflinks": "^0.2.0",
+    "gulp-reflinks": "^1.0.0",
     "gulp-sass": "^3.1.0",
     "handlebars-helper-create-frame": "^0.1.0",
     "handlebars-helpers": "^0.8.2",
